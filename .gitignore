@@ -1,0 +1,41 @@
+# Scala specific
+*.class
+*.log
+*.out
+*.jar
+*.war
+*.ear
+*.asm
+*.hprof
+*.stacktrace
+*.swp
+.DS_Store
+
+# SBT specific
+lib_managed/
+target/
+dist/
+.metals/
+.project/
+.cache/
+.history/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.bak
+*.tmp
+
+# Log files
+logs/
+*.log
+*.pid
+*.seed
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
